@@ -40,7 +40,7 @@ public class TechnikVerwaltung {
    
 
     public void setupDatabase() {
-        // specify the configuration...  
+        // specify the  
 
         ServerConfig config = new ServerConfig();
         config.setName("dbconfig");
